@@ -28,7 +28,7 @@ const bgImgChanger = {
             link.as = 'image';
             link.rel = 'preload';
             document.head.appendChild(link);
-            link.href = "./assets/images/page_bg_" + i + ".jpg";
+            link.href = './assets/images/page_bg_' + i + '.jpg';
             this.bgArray[i] = "url('./assets/images/page_bg_" + i + ".jpg')";
         }
     },
