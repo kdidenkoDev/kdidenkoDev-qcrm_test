@@ -1,0 +1,15 @@
+@import './reset';
+@import './variables';
+@import './animation';
+@import './main';
+
+body {
+	font-family: 'Roboto', sans-serif;
+	background: $body_bg;
+}
+
+.auth-page {
+	display: flex;
+	width: 100vw;
+	height: 100vh;
+}
