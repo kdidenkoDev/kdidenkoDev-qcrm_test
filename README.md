@@ -1,2 +1,2 @@
-# kdidenkoDev-qcrm_test
+# qcrm_test
 This is a test task for SupportYourApp
